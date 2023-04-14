@@ -1,0 +1,15 @@
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_S_SingleResponsability\Solid_S_SingleResponsability\bin\Debug\net6.0\Solid_S_SingleResponsability.exe
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_S_SingleResponsability\Solid_S_SingleResponsability\bin\Debug\net6.0\Solid_S_SingleResponsability.deps.json
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_S_SingleResponsability\Solid_S_SingleResponsability\bin\Debug\net6.0\Solid_S_SingleResponsability.runtimeconfig.json
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_S_SingleResponsability\Solid_S_SingleResponsability\bin\Debug\net6.0\Solid_S_SingleResponsability.dll
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_S_SingleResponsability\Solid_S_SingleResponsability\bin\Debug\net6.0\Solid_S_SingleResponsability.pdb
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_S_SingleResponsability\Solid_S_SingleResponsability\obj\Debug\net6.0\Solid_S_SingleResponsability.csproj.AssemblyReference.cache
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_S_SingleResponsability\Solid_S_SingleResponsability\obj\Debug\net6.0\Solid_S_SingleResponsability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_S_SingleResponsability\Solid_S_SingleResponsability\obj\Debug\net6.0\Solid_S_SingleResponsability.AssemblyInfoInputs.cache
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_S_SingleResponsability\Solid_S_SingleResponsability\obj\Debug\net6.0\Solid_S_SingleResponsability.AssemblyInfo.cs
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_S_SingleResponsability\Solid_S_SingleResponsability\obj\Debug\net6.0\Solid_S_SingleResponsability.csproj.CoreCompileInputs.cache
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_S_SingleResponsability\Solid_S_SingleResponsability\obj\Debug\net6.0\Solid_S_SingleResponsability.dll
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_S_SingleResponsability\Solid_S_SingleResponsability\obj\Debug\net6.0\refint\Solid_S_SingleResponsability.dll
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_S_SingleResponsability\Solid_S_SingleResponsability\obj\Debug\net6.0\Solid_S_SingleResponsability.pdb
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_S_SingleResponsability\Solid_S_SingleResponsability\obj\Debug\net6.0\Solid_S_SingleResponsability.genruntimeconfig.cache
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_S_SingleResponsability\Solid_S_SingleResponsability\obj\Debug\net6.0\ref\Solid_S_SingleResponsability.dll
