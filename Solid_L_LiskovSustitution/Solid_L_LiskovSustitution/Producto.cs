@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Solid_O_OpenClose
+namespace Solid_L_LiskovSustitution
 {
-    internal class Producto
+    public class Producto
     {
         public string Descripcion { get; set; }
         public double Precio { get; set; }

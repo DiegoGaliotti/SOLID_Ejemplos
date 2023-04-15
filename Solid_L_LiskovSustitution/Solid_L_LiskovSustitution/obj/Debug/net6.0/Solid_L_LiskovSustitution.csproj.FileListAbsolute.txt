@@ -1,0 +1,15 @@
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_L_LiskovSustitution\Solid_L_LiskovSustitution\obj\Debug\net6.0\Solid_L_LiskovSustitution.csproj.AssemblyReference.cache
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_L_LiskovSustitution\Solid_L_LiskovSustitution\obj\Debug\net6.0\Solid_L_LiskovSustitution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_L_LiskovSustitution\Solid_L_LiskovSustitution\obj\Debug\net6.0\Solid_L_LiskovSustitution.AssemblyInfoInputs.cache
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_L_LiskovSustitution\Solid_L_LiskovSustitution\obj\Debug\net6.0\Solid_L_LiskovSustitution.AssemblyInfo.cs
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_L_LiskovSustitution\Solid_L_LiskovSustitution\obj\Debug\net6.0\Solid_L_LiskovSustitution.csproj.CoreCompileInputs.cache
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_L_LiskovSustitution\Solid_L_LiskovSustitution\bin\Debug\net6.0\Solid_L_LiskovSustitution.exe
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_L_LiskovSustitution\Solid_L_LiskovSustitution\bin\Debug\net6.0\Solid_L_LiskovSustitution.deps.json
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_L_LiskovSustitution\Solid_L_LiskovSustitution\bin\Debug\net6.0\Solid_L_LiskovSustitution.runtimeconfig.json
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_L_LiskovSustitution\Solid_L_LiskovSustitution\bin\Debug\net6.0\Solid_L_LiskovSustitution.dll
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_L_LiskovSustitution\Solid_L_LiskovSustitution\bin\Debug\net6.0\Solid_L_LiskovSustitution.pdb
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_L_LiskovSustitution\Solid_L_LiskovSustitution\obj\Debug\net6.0\Solid_L_LiskovSustitution.dll
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_L_LiskovSustitution\Solid_L_LiskovSustitution\obj\Debug\net6.0\refint\Solid_L_LiskovSustitution.dll
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_L_LiskovSustitution\Solid_L_LiskovSustitution\obj\Debug\net6.0\Solid_L_LiskovSustitution.pdb
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_L_LiskovSustitution\Solid_L_LiskovSustitution\obj\Debug\net6.0\Solid_L_LiskovSustitution.genruntimeconfig.cache
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_L_LiskovSustitution\Solid_L_LiskovSustitution\obj\Debug\net6.0\ref\Solid_L_LiskovSustitution.dll

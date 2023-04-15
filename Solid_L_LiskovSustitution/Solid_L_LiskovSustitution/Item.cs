@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Solid_O_OpenClose
+namespace Solid_L_LiskovSustitution
 {
-    internal class Item
+    public class Item
     {
         public int Cantidad { get; set; }
         public Producto Producto { get; set; }

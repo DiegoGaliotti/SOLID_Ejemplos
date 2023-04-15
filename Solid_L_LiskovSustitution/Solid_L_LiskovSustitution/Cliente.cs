@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Solid_O_OpenClose
+namespace Solid_L_LiskovSustitution
 {
     public class Cliente
     {

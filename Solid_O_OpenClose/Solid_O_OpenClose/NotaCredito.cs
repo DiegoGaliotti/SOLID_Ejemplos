@@ -1,4 +1,4 @@
-﻿using Solid_S_SingleResponsability;
+﻿using Solid_O_OpenClose;
 using System;
 using System.Collections.Generic;
 using System.Linq;

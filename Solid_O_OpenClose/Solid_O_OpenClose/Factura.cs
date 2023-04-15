@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Solid_S_SingleResponsability
+namespace Solid_O_OpenClose
 {
     internal class Factura : DocumentoContable
     {
