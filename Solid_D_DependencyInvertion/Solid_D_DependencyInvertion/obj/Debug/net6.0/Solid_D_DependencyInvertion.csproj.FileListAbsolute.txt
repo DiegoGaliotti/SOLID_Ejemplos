@@ -1,0 +1,15 @@
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_D_DependencyInvertion\Solid_D_DependencyInvertion\bin\Debug\net6.0\Solid_D_DependencyInvertion.exe
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_D_DependencyInvertion\Solid_D_DependencyInvertion\bin\Debug\net6.0\Solid_D_DependencyInvertion.deps.json
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_D_DependencyInvertion\Solid_D_DependencyInvertion\bin\Debug\net6.0\Solid_D_DependencyInvertion.runtimeconfig.json
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_D_DependencyInvertion\Solid_D_DependencyInvertion\bin\Debug\net6.0\Solid_D_DependencyInvertion.dll
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_D_DependencyInvertion\Solid_D_DependencyInvertion\bin\Debug\net6.0\Solid_D_DependencyInvertion.pdb
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_D_DependencyInvertion\Solid_D_DependencyInvertion\obj\Debug\net6.0\Solid_D_DependencyInvertion.csproj.AssemblyReference.cache
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_D_DependencyInvertion\Solid_D_DependencyInvertion\obj\Debug\net6.0\Solid_D_DependencyInvertion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_D_DependencyInvertion\Solid_D_DependencyInvertion\obj\Debug\net6.0\Solid_D_DependencyInvertion.AssemblyInfoInputs.cache
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_D_DependencyInvertion\Solid_D_DependencyInvertion\obj\Debug\net6.0\Solid_D_DependencyInvertion.AssemblyInfo.cs
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_D_DependencyInvertion\Solid_D_DependencyInvertion\obj\Debug\net6.0\Solid_D_DependencyInvertion.csproj.CoreCompileInputs.cache
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_D_DependencyInvertion\Solid_D_DependencyInvertion\obj\Debug\net6.0\Solid_D_DependencyInvertion.dll
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_D_DependencyInvertion\Solid_D_DependencyInvertion\obj\Debug\net6.0\refint\Solid_D_DependencyInvertion.dll
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_D_DependencyInvertion\Solid_D_DependencyInvertion\obj\Debug\net6.0\Solid_D_DependencyInvertion.pdb
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_D_DependencyInvertion\Solid_D_DependencyInvertion\obj\Debug\net6.0\Solid_D_DependencyInvertion.genruntimeconfig.cache
+C:\Users\dngaliot\OneDrive - Anheuser-Busch InBev\Documents\Documentos\Clases C#\SOLID\Solid_D_DependencyInvertion\Solid_D_DependencyInvertion\obj\Debug\net6.0\ref\Solid_D_DependencyInvertion.dll
