@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Solid_L_LiskovSustitution
-{
+namespace Solid_I_InterfazSegregation
+{ 
     public class Cliente
     {
         public string Nombre { get; set; }
         public string Apellido { get; set; }
+
         public Cliente (string nombre, string apellido)
         {
             Nombre = nombre;
